@@ -1,0 +1,161 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1\Project\signal_6\simulation\qsim
+vcombine
+Z1 IM_J>hPe[OJF`@_0T9Q=RK3
+Z2 V:6>2J:1G2Oo7_:LW>AH0@2
+Z3 dC:\altera\13.1\Project\signal_6\simulation\qsim
+Z4 w1605032683
+Z5 8signal_6.vo
+Z6 Fsignal_6.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|signal_6.vo|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 HjOdUP`UGNT87Fh>_dOL@1
+!s85 0
+Z11 !s108 1605032684.458000
+Z12 !s107 signal_6.vo|
+!s101 -O0
+vcombine_vlg_check_tst
+!i10b 1
+Z13 !s100 :bie7e`SIJ[L;[QkNFFHS2
+Z14 IoX`ZL=8:RLWla2ZWf3M4K0
+Z15 V_KJObfQLPLmhiS]8A]KWn0
+R3
+Z16 w1605032682
+Z17 8Waveform.vwf.vt
+Z18 FWaveform.vwf.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z19 !s108 1605032684.605000
+Z20 !s107 Waveform.vwf.vt|
+Z21 !s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R9
+vcombine_vlg_sample_tst
+!i10b 1
+Z22 !s100 FED7?oEKkh2cgaIeo?fn02
+Z23 I=Ak;NO;CIk7@UjQX`QgBF1
+Z24 VEGT77b_mn9m^VlVBSA6g92
+R3
+R16
+R17
+R18
+L0 29
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9
+vcombine_vlg_vec_tst
+!i10b 1
+!s100 Y<[CS^cNo@i;>kdGjGTn?2
+I_7PCH;oC=[J3T<89HM>zo3
+Z25 VC=n7nf]gUCYcP9ng1k>fl0
+R3
+R16
+R17
+R18
+Z26 L0 210
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9
+vmy_I2S
+Z27 IVmk1m9A4A^]>b>AgZ902A2
+Z28 VjIdaN<L>_>bFj:H7WkPPY1
+R3
+Z29 w1605031105
+R5
+R6
+L0 31
+R7
+r1
+31
+R8
+R9
+Z30 nmy_@i2@s
+Z31 !s100 HH`<3QAfnT0z^@S4aK66O0
+Z32 !s108 1605031106.044000
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vmy_I2S_vlg_check_tst
+Z33 !s100 JD5oWgT@c8f=HZN]dYDkB2
+Z34 IE`gAQ^ZT0@_O;oWjSLZQ62
+Z35 VmEm5ON[ba;6<e8mQh5z<j2
+R3
+Z36 w1605031104
+R17
+R18
+L0 59
+R7
+r1
+31
+Z37 !s108 1605031106.186000
+Z38 !s107 Waveform.vwf.vt|
+R21
+R9
+Z39 nmy_@i2@s_vlg_check_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vmy_I2S_vlg_sample_tst
+Z40 !s100 5UJRShDGj<_cCi[H@g^Q21
+Z41 I@lgA7N[5KWD:Qhb^7nNF00
+Z42 V:48:bN0l_@4EEBS:glRLS3
+R3
+R36
+R17
+R18
+L0 29
+R7
+r1
+31
+R37
+R38
+R21
+R9
+Z43 nmy_@i2@s_vlg_sample_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vmy_I2S_vlg_vec_tst
+Z44 IC6U:YJiO^3FB0<d<ja<3o2
+Z45 Vk9^]NEz2VY[a]IQXz@DKD3
+R3
+R36
+R17
+R18
+Z46 L0 208
+R7
+r1
+31
+R37
+R38
+R21
+R9
+Z47 nmy_@i2@s_vlg_vec_tst
+Z48 !s100 8=?>EaPHP6U73C[U3aMhA2
+!i10b 1
+!s85 0
+!s101 -O0

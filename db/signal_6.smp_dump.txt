@@ -1,0 +1,13 @@
+
+State Machine - |combine|my_I2S:a8|CurrentState
+Name CurrentState.State_WaitForStart CurrentState.State_IncreaseAddress CurrentState.State_WaitForReady CurrentState.State_Reset 
+CurrentState.State_Reset 0 0 0 0 
+CurrentState.State_WaitForReady 0 0 1 1 
+CurrentState.State_IncreaseAddress 0 1 0 1 
+CurrentState.State_WaitForStart 1 0 0 1 
+
+State Machine - |combine|my_I2S:a8|my_I2S_Transmitter:Transmitter|CurrentState
+Name CurrentState.State_TransmitWord CurrentState.State_LoadWord CurrentState.State_Reset 
+CurrentState.State_Reset 0 0 0 
+CurrentState.State_LoadWord 0 1 1 
+CurrentState.State_TransmitWord 1 0 1 

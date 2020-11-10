@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="signal_6">
+		<CBX_INST_ENTRY INSTANCE_NAME="|combine|my_I2S:a8|SineROM:ROM|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_tvt3.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
